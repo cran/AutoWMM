@@ -1,6 +1,6 @@
-81f21d40ca61301d1c084bcb5d09b6fe *DESCRIPTION
+49abf0f9edfb92f786eb3420902c413d *DESCRIPTION
 2a086bc533b13b323a819c95d7ab5b99 *NAMESPACE
-ac3a886161342704297589f11853e3b6 *NEWS.md
+6ad28272b9cad22adf06916a2dab611c *NEWS.md
 fafe48609bd68dcd4ff64f3dbdc05c2b *R/Nhats.R
 01b6116d3dfceec317bb4585ae0b7fc4 *R/confInts.R
 8de4fc887e9b38772fcf4469e08c4f2d *R/countTree.R
@@ -17,12 +17,12 @@ eb1009b0e76840a61ed85a932121071d *R/ssEstimate.R
 5bfba89afe0f4dea7538a26d116cfbf6 *R/treeData1.R
 7408e814097c7d2e9f667876a5d93e03 *R/treeData2.R
 025d27f82ad24e02af43f640dd2e8228 *R/wmmTree.R
-68dc89dcc8992b5509fc213a8353590b *build/vignette.rds
+46fbbf355327037d12418aa44ab70e32 *build/vignette.rds
 66662b02d0125a2af986119b6cb98872 *data/treeData1.RData
 786ff8edf663ac50e6a36d079bbf06bb *data/treeData2.RData
 03b25964f66ef657fd62822c5d513e96 *inst/doc/AutoWMM.R
 6ce47ab854e392ed7a659a9123e5df0b *inst/doc/AutoWMM.Rmd
-d65de9e84c14f036649d0534345d425c *inst/doc/AutoWMM.html
+cbdfded57c846bd688c30a8e570ce163 *inst/doc/AutoWMM.html
 31463bb79bd264cf1a74992ebc5fe854 *man/Nhats.Rd
 aac1c7aabb3c12e107c9e70eed76eeea *man/confInts.Rd
 9fee41d52b162e8b780da3583e7d3e5e *man/countTree.Rd
@@ -39,8 +39,8 @@ e8c902655c7621b92f6dbab2252c99b0 *man/ss.confInts.Rd
 ec9d11bf15f15218c978c85de14defcb *man/treeData1.Rd
 98f23996b8f5680a377d3c85df74c812 *man/treeData2.Rd
 ca49c5ba555086e25720d2c41a5b194a *man/wmmTree.Rd
-3101efc2613e218a5fa7a3a0cf906099 *tests/testthat.R
+dffd7882f56f5b627a6686509827ee2f *tests/testthat.R
 c5744c4dfb7b4f71edaf080009813520 *tests/testthat/helper.R
-56ed63079f54b4d9f7fe0e244ffeaac4 *tests/testthat/test-check_functions.R
+eb7c4636d066448d0b68339f847eebdb *tests/testthat/test-check_functions.R
 6ce47ab854e392ed7a659a9123e5df0b *vignettes/AutoWMM.Rmd
 2b53587a077c83babbfd56ba0dc94f7b *vignettes/references.bib
